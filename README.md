@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Hrieshikesh!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Passionate+About+Technology;Always+Learning+New+Things;Building+Amazing+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Passionate+About+Technology;Always+Learning+New+Things;Amazing+Web+Applications" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
