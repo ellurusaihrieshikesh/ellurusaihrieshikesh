@@ -82,7 +82,7 @@ I'm a passionate **Full Stack Web Developer** who loves creating beautiful, func
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/ellurusaihrieshikesh/ellurusaihrieshikesh/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Sahith53/sahith53/main/grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ## 📈 Top Languages
